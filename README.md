@@ -39,4 +39,4 @@ I build applied machine learning and NLP systems and spend most of my time on th
 
 ## Contact
 
-[arjunmoitra62@gmail.com](mailto:arjunmoitra62@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arjun-moitra-568068278) · Montreal, Quebec. Open work permit, eligible to work anywhere in Canada without sponsorship, willing to relocate.
+[arjunmoitra62@gmail.com](mailto:arjunmoitra62@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arjun-moitra-568068278) 

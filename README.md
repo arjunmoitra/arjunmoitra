@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Arjun Moitra. Data science, machine learning, NLP. Master of Data Science, University of Guelph, GPA 4.0 / 4.0. Montreal, open to roles across Canada.">
+  <img src="banner.svg" width="100%" alt="Arjun Moitra. Data science, machine learning, NLP. Master's in Data Science. Bachelor's in Computer Science and Design.
 </p>
 
 I build applied machine learning and NLP systems and spend most of my time on the part after the first result, where the model turns out to be fragile, the metric turns out to be the wrong one, or the effect turns out to be smaller than it looked. Master of Data Science from the University of Guelph, computer science from IIIT Delhi. Currently looking for data science, machine learning and AI roles in Canada.
